@@ -1,5 +1,5 @@
 #
-git clone https://github.com/TeamDeeCode/DeCoDeMusic /root/anushka
+git clone https://github.com/Itsunknown-12/TGN-Robot /root/anushka
 cp anushkamusic/.env /root/anushka
 cd /root/anushka
 docker build . --rm --force-rm --compress --pull --file Dockerfile -t anushkamusic
